@@ -218,6 +218,11 @@
           "commit": "7e47a3c5091234d19e8ef9d1cb18003adda4c733",
           "version": "1.3.0",
           "sha256": "74770a47e3a15e1edcdad6813cacbb63d3b7d668d244d70dc81f621b5f501126"
+        },
+        {
+          "commit": "b9e976756b836a18ae99bcd89dfe1e027ed9fae4",
+          "version": "2.0.1",
+          "sha256": "829fb1fac26a225d2c4e8af89144474b00555f7f0a1570b5595df727f350de8e"
         }
       ]
     }
